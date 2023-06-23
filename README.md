@@ -19,7 +19,7 @@ customtkinter.CTkButton(root, text="Stop", command=viz.stop).pack(fill="x", expa
 root.mainloop()
 ```
 
-**Valid arguments:** `master`, `bar_width`,`bar_color`,`gradient`, `width`, `height`
+**Valid arguments:** `master`, `bar_width`, `bar_color`, `gradient`, `width`, `height`
 
 **Valid methods:** `.start()` and `.stop()`
 
