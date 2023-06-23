@@ -1,5 +1,5 @@
 # TkVisualizer
-**Some audio visualizer widget made with tkinter.**
+**Simple audio visualizer widget made with tkinter.**
 
 ![Screenshot](https://github.com/Akascape/TkVisualizer/assets/89206401/5f16df2c-0dce-42a6-ac1c-78664314a35a)
 
