@@ -4,6 +4,7 @@
 ![Screenshot](https://github.com/Akascape/TkVisualizer/assets/89206401/5f16df2c-0dce-42a6-ac1c-78664314a35a)
 
 ## TkAudioVisualizer
+### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Akascape/TkVisualizer?&color=white&label=Download%20Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/Akascape/TkVisualizer/archive/refs/heads/main.zip)
 ### Example:
 ```python
 from TkVisualizer import TkAudioVisualizer
